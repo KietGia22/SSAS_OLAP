@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KIET\u0027s Folder\\CODE\\UIT\\Third_year\\Semester 2\\IS217_Data_warehouse_and_OLAP\\Project\\NBA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E25C6C-36C9-4882-892A-ABA78E49F361}|NBA\\NBA.dwproj|D:\\KIET\u0027s Folder\\CODE\\UIT\\Third_year\\Semester 2\\IS217_Data_warehouse_and_OLAP\\Project\\NBA\\NBA\\NBA Stats DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{75E25C6C-36C9-4882-892A-ABA78E49F361}|NBA\\NBA.dwproj|solutionrelative:NBA\\NBA Stats DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NBA Stats DW.cube [Design]",
+              "DocumentMoniker": "D:\\KIET\u0027s Folder\\CODE\\UIT\\Third_year\\Semester 2\\IS217_Data_warehouse_and_OLAP\\Project\\NBA\\NBA\\NBA Stats DW.cube",
+              "RelativeDocumentMoniker": "NBA\\NBA Stats DW.cube",
+              "ToolTip": "D:\\KIET\u0027s Folder\\CODE\\UIT\\Third_year\\Semester 2\\IS217_Data_warehouse_and_OLAP\\Project\\NBA\\NBA\\NBA Stats DW.cube [Design]",
+              "RelativeToolTip": "NBA\\NBA Stats DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-17T05:03:11.349Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
